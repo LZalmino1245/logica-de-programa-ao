@@ -1,1 +1,1 @@
-# logica-de-programa-ao
+# logica-de-programacao
